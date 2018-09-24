@@ -1,0 +1,17 @@
+.App {
+  max-width: 1000px;
+  margin: 4rem auto;
+  padding-left: 2rem;
+}
+
+.item {
+  width: 300px;
+  background: #edededed;
+  margin: 1rem;
+  padding: 2rem;
+}
+
+.item .title {
+  font-size: 2rem;
+  font-weight: bold;
+}
