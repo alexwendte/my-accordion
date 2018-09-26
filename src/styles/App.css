@@ -5,10 +5,12 @@
 }
 
 .item {
-  width: 300px;
-  background: #edededed;
   margin: 1rem;
+}
+.contents {
+  width: 300px;
   padding: 2rem;
+  background: #edededed;
 }
 
 .item .title {
